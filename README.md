@@ -24,7 +24,7 @@
 
 | 机场 | 定位 | 起步价 | 主力协议 | ChatGPT/Netflix 解锁 | 适合人群 |
 |------|------|--------|----------|----------------------|----------|
-| [良心云](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe) | 高性价比 | **¥2/月** | Clash Meta / Hysteria2 | ✅ 全解锁 | 预算有限、要 1.0 倍率大流量 |
+| [良心云](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe) | 高性价比 | **¥2/月** | Clash Meta / Hysteria2 | ✅ 全解锁(含 ChatGPT、TikTok)| 预算有限、要 1.0 倍率大流量 |
 | [花云 FlowerCloud](https://api-flowercloud.com/aff.php?aff=24427) | 高端专线 | ¥128/年 | 专线传输 | ✅ 全解锁 + SLA | 游戏、会议,对延迟敏感 |
 | [TAG](https://tagss.pro/#/auth/049rgcCO) | 老牌高端 | ¥162/年 | Shadowsocks | ✅ 全解锁(含 Claude/Gemini)| 要冷门地区节点、AI 重度用户 |
 | [肥猫云 FATCAT](https://inv03.fcweba.cc/register?aff=de41guku) | 全 IEPL 专线 | ¥96/年 | Trojan | ✅ ChatGPT/Netflix 解锁 | 游戏玩家(FullCone)、多设备家庭 |
@@ -41,11 +41,12 @@
 - 四网(电信/联通/移动/广电)优化互联,超低延迟
 - 全节点 1.0 倍率,无高倍率线路套路
 - 支持 Clash Meta / Hysteria2 等新协议
+- 官方标注解锁 ChatGPT(OpenAI)和 TikTok,便宜机场里罕见
 - [良心云新用户注册入口](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe)
 
 **一句话点评:¥2/月就能上车的 1.0 倍率大流量机场,2026 年便宜稳定机场的性价比标杆。**
 
-良心云主打「最良心的高性价比」,自研高性能后端,单线程速度表现突出,晚高峰看 8K 60fps 视频不卡顿。全球节点覆盖,**所有节点统一 1.0 倍率**,没有「看着流量很多、实际高倍率扣量」的常见套路。流媒体全面解锁,ChatGPT、Netflix、Disney+ 等均可正常使用。官方承诺无节点日志存储、军工级 TLS 1.3 加密,并且明确支持新疆、河南、福建等敏感地区用户正常使用。
+良心云主打「最良心的高性价比」,自研高性能后端,单线程速度表现突出,晚高峰看 8K 60fps 视频不卡顿。全球节点覆盖,**所有节点统一 1.0 倍率**,没有「看着流量很多、实际高倍率扣量」的常见套路。解锁范围是官方在商店页明确标注的:**ChatGPT(OpenAI)、TikTok、Netflix、YouTube、Disney+、HBO Max、AbemaTV、巴哈姆特动画疯、Niconico、TVB、Bilibili 港澳台限定**——¥2/月起步的机场给出这个解锁列表,尤其是 TikTok 解锁,在便宜机场里非常罕见。官方承诺无节点日志存储、军工级 TLS 1.3 加密,并且明确支持新疆、河南、福建等敏感地区用户正常使用。
 
 入门套餐低至 **¥2/月**,月付无压力,特别适合先小额试水再升级——这也是官方自己推荐的购买方式,足够良心。
 
@@ -94,6 +95,7 @@
 - 运营 5 年以上的老牌机场,稳定性有口碑
 - 深圳↔香港、上海↔东京、北京↔法兰克福 国际专线传输
 - 80+ 全球边缘网络,多运营商优化连接
+- 官网明确标注 ChatGPT 解锁 + 热门流媒体解锁,宣称支持 100+ 应用
 - [花云新用户注册入口](https://api-flowercloud.com/aff.php?aff=24427)
 
 **一句话点评:国际专线 + SLA 保障的老牌机场,晚高峰不掉速,适合当对稳定性有要求的主力梯子。**
@@ -171,7 +173,7 @@ TAG 是 2018 年就开站的老牌机场,能活过 7 年以上的机场本身就
 
 肥猫云 FATCAT 是 2023 年开业的小众精品机场,走**全 IEPL 内网专线**路线:BGP 三线优化入口,专线出口,数据传输不过墙,晚高峰稳定性和延迟表现属于专线机场应有的水准。85 个节点覆盖 17 个国家和地区(亚洲/欧洲/美洲/东南亚),以 Trojan 协议为主,**绝大多数节点 UDP NAT 类型为 FullCone**——这一点对主机/端游玩家非常重要,联机体验比对称 NAT 的机场好一大截。
 
-最大的卖点是**全系套餐不限制客户端连接数、不限速**:全家老小的手机、电脑、电视盒子挂同一个订阅都没问题,不用像别家一样数着设备数买套餐。Netflix、YouTube、Disney+、ChatGPT 解锁正常。
+最大的卖点是**全系套餐不限制客户端连接数、不限速**:全家老小的手机、电脑、电视盒子挂同一个订阅都没问题,不用像别家一样数着设备数买套餐。解锁方面,2026 年第三方实测 Netflix、YouTube、Disney+、ChatGPT(OpenAI)均可正常使用,HBO Max 部分节点受限。
 
 **套餐价格:**(2026 年,全系 IEPL 专线、不限设备、不限速,年付一律 8 折)
 
@@ -241,7 +243,10 @@ TAG 是 2018 年就开站的老牌机场,能活过 7 年以上的机场本身就
 优先看两点:专线(延迟低、丢包少)和 UDP NAT 类型。肥猫云全 IEPL 专线且绝大多数节点为 FullCone NAT,联机体验最好;花云的国际专线打日服/美服也很稳。
 
 **Q:能解锁 ChatGPT / Claude / Netflix 吗?**
-本清单收录的三家机场均支持 ChatGPT 和主流流媒体解锁;其中 TAG 明确标注解锁 Claude、Gemini、Cursor 等 AI 工具,良心云官网商店页有详细流媒体解锁测试结果。
+本清单收录的四家机场均支持 ChatGPT 和主流流媒体解锁:良心云官方标注解锁 ChatGPT(OpenAI)、TikTok、Netflix、Disney+、HBO Max、动画疯等一长串服务;花云官网明确标注 ChatGPT 解锁;TAG 解锁最全,明确标注 Claude、Gemini、Cursor 等 AI 工具;肥猫云经第三方实测 ChatGPT、Netflix、Disney+ 可用。
+
+**Q:刷 TikTok 用哪个机场?**
+良心云官方标注解锁 TikTok,是本清单里最便宜的 TikTok 机场;做 TikTok 运营(需要固定住宅 IP)则看 TAG 的私人节点定制。肥猫云不解锁 TikTok。
 
 **Q:iPhone(iOS)怎么用机场?**
 用外区 Apple ID 下载 Shadowrocket(小火箭)、Loon、Stash 或 Clash Mi,粘贴订阅链接即可。安卓用 Clash Meta / FlClash,电脑用 Clash Verge Rev,各机场后台都有图文教程。
@@ -266,4 +271,4 @@ TAG 是 2018 年就开站的老牌机场,能活过 7 年以上的机场本身就
 
 ---
 
-#翻墙机场 #机场推荐 #2026机场推荐 #翻墙机场推荐 #便宜机场 #高性价比机场 #稳定机场 #良心云 #花云 #FlowerCloud #TAG机场 #肥猫云 #FATCAT机场 #IEPL专线机场 #专线机场 #游戏机场 #Clash机场 #ClashMeta机场 #Hysteria2机场 #SS机场 #V2ray机场 #Trojan机场 #ChatGPT机场 #Netflix解锁 #科学上网 #梯子推荐 #VPN推荐
+#翻墙机场 #机场推荐 #2026机场推荐 #翻墙机场推荐 #便宜机场 #高性价比机场 #稳定机场 #良心云 #花云 #FlowerCloud #TAG机场 #肥猫云 #FATCAT机场 #IEPL专线机场 #专线机场 #游戏机场 #Clash机场 #ClashMeta机场 #Hysteria2机场 #SS机场 #V2ray机场 #Trojan机场 #ChatGPT机场 #TikTok机场 #Netflix解锁 #科学上网 #梯子推荐 #VPN推荐
