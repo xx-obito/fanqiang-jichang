@@ -22,12 +22,12 @@
 
 ## 2026 机场快速对比一览表
 
-| 机场 | 定位 | 起步价 | 主力协议 | ChatGPT/Netflix 解锁 | 适合人群 |
-|------|------|--------|----------|----------------------|----------|
-| [良心云](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe) | 高性价比 | **¥2/月** | Clash Meta / Hysteria2 | ✅ 全解锁(含 ChatGPT、TikTok)| 预算有限、要 1.0 倍率大流量 |
-| [花云 FlowerCloud](https://api-flowercloud.com/aff.php?aff=24427) | 高端专线 | ¥128/年 | 专线传输 | ✅ 全解锁 + SLA | 游戏、会议,对延迟敏感 |
-| [TAG](https://tagss.pro/#/auth/049rgcCO) | 老牌高端 | ¥162/年 | Shadowsocks | ✅ 全解锁(含 Claude/Gemini)| 要冷门地区节点、AI 重度用户 |
-| [肥猫云 FATCAT](https://inv03.fcweba.cc/register?aff=de41guku) | 全 IEPL 专线 | ¥96/年 | Trojan | ✅ ChatGPT/Netflix 解锁 | 游戏玩家(FullCone)、多设备家庭 |
+| 机场 | 定位 | 起步价 | 主力协议 | AI 解锁 | 流媒体解锁 | 适合人群 |
+|------|------|--------|----------|---------|------------|----------|
+| [良心云](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe) | 高性价比 | **¥2/月** | Clash Meta / Hysteria2 | ✅ ChatGPT | ✅ 全解锁(含 TikTok)| 预算有限、要 1.0 倍率大流量 |
+| [花云 FlowerCloud](https://api-flowercloud.com/aff.php?aff=24427) | 高端专线 | ¥128/年 | 专线传输 | ✅ ChatGPT | ✅ 全解锁 + SLA | 游戏、会议,对延迟敏感 |
+| [TAG](https://tagss.pro/#/auth/049rgcCO) | 老牌高端 | ¥162/年 | Shadowsocks | ✅ 最全(ChatGPT/Claude/Gemini)| ✅ 全解锁(TikTok 需定制)| 要冷门地区节点、AI 重度用户 |
+| [肥猫云 FATCAT](https://inv03.fcweba.cc/register?aff=de41guku) | 全 IEPL 专线 | ¥96/年 | Trojan | ✅ ChatGPT | ✅ Netflix/Disney+(不含 TikTok)| 游戏玩家(FullCone)、多设备家庭 |
 
 **一句话结论:图便宜量大选良心云,图专线品质选花云,图节点覆盖和 AI 全家桶解锁选 TAG,打游戏、设备多选肥猫云。**
 
