@@ -24,9 +24,9 @@
 
 | 机场 | 定位 | 起步价 | 主力协议 | AI 解锁 | 流媒体解锁 | 适合人群 |
 |------|------|--------|----------|---------|------------|----------|
-| [良心云](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe) | 高性价比 | **¥2/月** | Clash Meta / Hysteria2 | ✅ ChatGPT | ✅ 全解锁(含 TikTok)| 预算有限、要 1.0 倍率大流量 |
+| [良心云](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe) | 高性价比 | **¥2/月** | Clash Meta / Hysteria2 | ✅ ChatGPT/Gemini | ✅ 全解锁(含 TikTok)| 预算有限、要 1.0 倍率大流量 |
 | [花云 FlowerCloud](https://api-flowercloud.com/aff.php?aff=24427) | 高端专线 | ¥128/年 | 专线传输 | ✅ ChatGPT | ✅ 全解锁 + SLA | 游戏、会议,对延迟敏感 |
-| [TAG](https://tagss.pro/#/auth/049rgcCO) | 老牌高端 | ¥162/年 | Shadowsocks | ✅ 最全(ChatGPT/Claude/Gemini)| ✅ 全解锁(TikTok 需定制)| 要冷门地区节点、AI 重度用户 |
+| [TAG](https://tagss.pro/#/auth/049rgcCO) | 老牌高端 | ¥162/年 | Shadowsocks | ✅ 最全(ChatGPT/Claude/Gemini)| ✅ 全解锁 | 要冷门地区节点、AI 重度用户 |
 | [肥猫云 FATCAT](https://inv03.fcweba.cc/register?aff=de41guku) | 全 IEPL 专线 | ¥96/年 | Trojan | ✅ ChatGPT | ✅ Netflix/Disney+(不含 TikTok)| 游戏玩家(FullCone)、多设备家庭 |
 
 **一句话结论:图便宜量大选良心云,图专线品质选花云,图节点覆盖和 AI 全家桶解锁选 TAG,打游戏、设备多选肥猫云。**
@@ -41,7 +41,7 @@
 - 四网(电信/联通/移动/广电)优化互联,超低延迟
 - 全节点 1.0 倍率,无高倍率线路套路
 - 支持 Clash Meta / Hysteria2 等新协议
-- 官方标注解锁 ChatGPT(OpenAI)和 TikTok,便宜机场里罕见
+- 官方标注解锁 ChatGPT(OpenAI)和 TikTok,Gemini 实测也可用,便宜机场里罕见
 - [良心云新用户注册入口](https://xn--9kqz23b19z.com/#/register?code=jmRWuAHe)
 
 **一句话点评:¥2/月就能上车的 1.0 倍率大流量机场,2026 年便宜稳定机场的性价比标杆。**
@@ -243,7 +243,7 @@ TAG 是 2018 年就开站的老牌机场,能活过 7 年以上的机场本身就
 优先看两点:专线(延迟低、丢包少)和 UDP NAT 类型。肥猫云全 IEPL 专线且绝大多数节点为 FullCone NAT,联机体验最好;花云的国际专线打日服/美服也很稳。
 
 **Q:能解锁 ChatGPT / Claude / Netflix 吗?**
-本清单收录的四家机场均支持 ChatGPT 和主流流媒体解锁:良心云官方标注解锁 ChatGPT(OpenAI)、TikTok、Netflix、Disney+、HBO Max、动画疯等一长串服务;花云官网明确标注 ChatGPT 解锁;TAG 解锁最全,明确标注 Claude、Gemini、Cursor 等 AI 工具;肥猫云经第三方实测 ChatGPT、Netflix、Disney+ 可用。
+本清单收录的四家机场均支持 ChatGPT 和主流流媒体解锁:良心云官方标注解锁 ChatGPT(OpenAI)、TikTok、Netflix、Disney+、HBO Max、动画疯等一长串服务,Gemini 实测也可用;花云官网明确标注 ChatGPT 解锁;TAG 解锁最全,明确标注 Claude、Gemini、Cursor 等 AI 工具;肥猫云经第三方实测 ChatGPT、Netflix、Disney+ 可用。
 
 **Q:刷 TikTok 用哪个机场?**
 良心云官方标注解锁 TikTok,是本清单里最便宜的 TikTok 机场;做 TikTok 运营(需要固定住宅 IP)则看 TAG 的私人节点定制。肥猫云不解锁 TikTok。
